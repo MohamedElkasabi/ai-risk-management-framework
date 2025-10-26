@@ -9,7 +9,7 @@ The assessment is based on a sample AI application named **BetterFit**, which re
 ## Deliverables
 - **BetterFit_AI_Risk_Assessment.pdf** — Full written case study with analysis and recommendations
 - **Risk_Register.xlsx** — Detailed risk register with scoring, ownership, and control actions
-- **visuals/** — Risk matrix and system data-flow diagram (for interview/portfolio use)
+- **Visuals.zip** — Risk matrix and system data-flow diagram (for interview/portfolio use)
 
 ## How to Use This Repository
 1. Start with the PDF for the narrative and framework alignment.
